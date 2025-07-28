@@ -1,33 +1,40 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# ☁️ Cloud Resume Challenge – Hank Tsai
 
+This project is my implementation of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/).  
+It's a static resume website hosted entirely on AWS using cloud-native services.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+🔗 **Live Website**: [d3or85ekxb7mvn.cloudfront.net](https://d3or85ekxb7mvn.cloudfront.net/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = Not included)
+## 🛠️ Technologies Used
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+- **HTML / CSS** – for building the website layout
+- **AWS S3** – static website hosting
+- **AWS CloudFront** – global content delivery
+- **Git & GitHub** – version control and collaboration
+- _(Upcoming: Lambda, API Gateway, DynamoDB for visitor counter)_
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## 📚 What I Learned
 
+- How to deploy and host a static site on AWS
+- Basics of CloudFront and S3 bucket policies
+- Git workflow and GitHub repository management
+- Cloud fundamentals in a hands-on project
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🚧 Next Steps
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- Add visitor counter using DynamoDB + Lambda + API Gateway
+- CI/CD pipeline with GitHub Actions
+- Custom domain via Route 53 (optional)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## 🙋 About Me
+
+I'm Hank, a cloud enthusiast currently transitioning from sales into the IT field.  
+I'm pursuing a Master of IT in Australia, and this resume project is part of my cloud engineering journey.
