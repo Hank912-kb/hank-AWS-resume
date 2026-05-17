@@ -1,40 +1,46 @@
 # ☁️ Cloud Resume Challenge – Hank Tsai
 
 This project is my implementation of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/).  
-It's a static resume website hosted entirely on AWS using cloud-native services.
-
-🔗 **Live Website**: [d3or85ekxb7mvn.cloudfront.net](https://d3or85ekxb7mvn.cloudfront.net/)
+It is a static resume website project built with AWS cloud services to gain hands-on experience with cloud deployment and hosting workflows.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML / CSS** – for building the website layout
+- **HTML / CSS** – website layout and styling
 - **AWS S3** – static website hosting
-- **AWS CloudFront** – global content delivery
-- **Git & GitHub** – version control and collaboration
-- _(Upcoming: Lambda, API Gateway, DynamoDB for visitor counter)_
+- **AWS CloudFront** – content delivery and caching
+- **Git & GitHub** – version control and project management
 
 ---
 
 ## 📚 What I Learned
 
-- How to deploy and host a static site on AWS
-- Basics of CloudFront and S3 bucket policies
+- How to deploy and host a static website on AWS
+- Basic CloudFront distribution and S3 bucket configuration
 - Git workflow and GitHub repository management
-- Cloud fundamentals in a hands-on project
+- Hands-on experience with cloud deployment fundamentals
 
 ---
 
-## 🚧 Next Steps
+## 🚧 Future Improvements
 
-- Add visitor counter using DynamoDB + Lambda + API Gateway
-- CI/CD pipeline with GitHub Actions
-- Custom domain via Route 53 (optional)
+Possible future improvements for this project include:
+
+- Visitor counter integration
+- CI/CD workflow using GitHub Actions
+- Custom domain configuration with Route 53
+
+---
+
+## 📌 Project Status
+
+The live website is currently offline to reduce hosting costs, but the source code and project structure are still available in this repository.
 
 ---
 
 ## 🙋 About Me
 
-I'm Hank, a cloud enthusiast currently transitioning from sales into the IT field.  
-I'm pursuing a Master of IT in Australia, and this resume project is part of my cloud engineering journey.
+I'm currently pursuing a Master of Information Technology in Australia and transitioning from a cloud sales background into the IT and cloud industry.
+
+This project was built to strengthen my practical understanding of AWS cloud services and deployment workflows.
